@@ -249,6 +249,16 @@ img{
         line-height: 1;
         margin-bottom: 1rem;
     }
+    
+    /* MENU */
+    .cover-menu{
+        background-image: url(../images/cover-news-l.webp);
+    }
+    .grid{
+        gap: 3rem 2rem;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
 
     /* ヘッダーカバー画像 */
     .sub-cover{
