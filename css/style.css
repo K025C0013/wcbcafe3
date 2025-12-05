@@ -116,7 +116,6 @@ img{
     margin-bottom: 3;
 }
 
-/*HOME*/
 .cover-home{
     background-image: url(../images/cover-home-l.webp);
 }
@@ -130,6 +129,12 @@ img{
 
 .cover-news{
     background-image: url(../images/cover-news-s.webp);
+}
+
+/* MENU
+---------------------------- */
+.cover-menu{
+    background-image: url(../images/cover-menu-s.webp);
 }
 
 
